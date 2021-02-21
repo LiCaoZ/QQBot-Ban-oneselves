@@ -22,7 +22,7 @@
 
 使用晨风QQ机器人作为主程序的第三方配置需视情况定 一般放在 //更多小游戏文件可放这里/System 即可
 
-如您不确定具体位置 可发邮件至 [admin@12blog.tk](mailto:admin@12blog.tk) 获得帮助
+如您不确定具体位置 可发邮件至 [admin@shiertx.com](mailto:admin@shiertx.com) 获得帮助
 
 您亦可加入插件内测群为我们提交反馈
 
